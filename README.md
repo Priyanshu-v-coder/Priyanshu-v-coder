@@ -2,7 +2,7 @@
 
 💻 Diploma Student in Computer Engineering  
 🚀 Passionate about turning ideas into working projects  
-🧠 Currently Learning: Python, Angular, DSA, AI, PHP  
+🧠 Currently Learning: Python, DSA, AI, PHP  
 📂 Recent Projects:
 - 🧠 AI Chatbot for College Enquiries
 - 📚 Student Management System (PHP)
