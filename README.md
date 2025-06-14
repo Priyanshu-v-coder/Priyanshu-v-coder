@@ -33,4 +33,5 @@
 ## 🔗 Le's Connectt
 
 - 📧 Email: priyanshupatel0412@gmail.com  
-- 💼 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com)  
+- 💼 LinkedIn: [(https://www.linkedin.com/in/priyanshu-vansajaliya-a296b336b/)](https://linkedin.com)  
+
