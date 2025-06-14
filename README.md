@@ -5,7 +5,6 @@
 🧠 Currently Learning: Python, Angular, DSA, AI, PHP  
 📂 Recent Projects:
 - 🧠 AI Chatbot for College Enquiries
-- 💸 Angular Expense Tracker
 - 📚 Student Management System (PHP)
 - 🧾 D-Mart Java Billing System
 
